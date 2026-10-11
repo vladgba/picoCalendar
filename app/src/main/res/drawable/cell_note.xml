@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- API 21-22 fallback (sized layer-list items need API 23): soft tinted cell -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <solid android:color="@color/today_bg" />
+    <corners android:radius="10dp" />
+</shape>

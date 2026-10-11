@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Themed (monochrome) icon: calendar outline with day cells cut out -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#FF000000" android:fillType="evenOdd"
+        android:pathData="M36,38h36a4,4 0,0 1,4 4v28a4,4 0,0 1,-4 4h-36a4,4 0,0 1,-4 -4v-28a4,4 0,0 1,4 -4z
+            M39,53v6h6v-6z M51,53v6h6v-6z M63,53v6h6v-6z M39,64v6h6v-6z M51,64v6h6v-6z M63,64v6h6v-6z"/>
+    <path android:fillColor="#FF000000" android:pathData="M42,33h4v9h-4z M62,33h4v9h-4z"/>
+</vector>

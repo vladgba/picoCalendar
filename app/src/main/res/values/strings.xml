@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">picoCalendar</string>
+    <string name="prev_month">Previous month</string>
+    <string name="next_month">Next month</string>
+    <string name="add_note">Add note</string>
+    <string name="edit_note">Edit note</string>
+    <string name="delete_note">Delete this note?</string>
+    <string name="no_notes">No notes. Tap + to add one.</string>
+    <string name="hint_note">Note text</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="widget_desc">Current month with today and days that have notes</string>
+    <string name="arrow_prev" translatable="false">‹</string>
+    <string name="arrow_next" translatable="false">›</string>
+</resources>
